@@ -1,4 +1,4 @@
-module github.com/Donaldhan/martini
+module github.com/Donaldhan/inject
 
 go 1.19
 
